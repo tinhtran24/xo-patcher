@@ -1,0 +1,8 @@
+env_name:
+    port: <local-port>
+    ip: <ip>:<port>
+    p: <password>
+    u: <username>
+    project: <pro>
+env_name2:
+    ...
